@@ -1,0 +1,4 @@
+def NeuroProject(name):
+print("hello I love %s outfit so much!" % name)
+
+NeuroProject('Sidney')
