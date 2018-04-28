@@ -1,4 +1,4 @@
-def NeuroProject(name):
+def NeuroProject_1(name):
 print("hello I love %s outfit so much!" % name)
 
-NeuroProject('Sidney')
+NeuroProject_1('Alicia')
